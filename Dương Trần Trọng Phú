@@ -1,1 +1,3 @@
-
+git rm -- "Dương Trần Trọng Phú"
+git commit -m "Delete Dương Trần Trọng Phú"
+git push origin main
