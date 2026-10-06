@@ -19,6 +19,4 @@ n25dcat095@student.ptithcm.edu.vn/Mai Gia Phúc (MaiGiaPhuc-N25DCAT095)
 n25dcat04@student.ptithcm.edu.vn/Dương Trần Trọng Phú (TrongPhu)
 
 The information will be further reinforced as follows:
-- business rules
-- identify survey object/scale.
-- er/eer
+-none.
